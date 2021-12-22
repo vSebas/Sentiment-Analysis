@@ -1,0 +1,12 @@
+langdetect
+sklearn
+pandas
+selenium
+matplotlib
+nltk
+vadersentiment
+config
+tweepy
+preprocessor
+SpeechRecognition
+pyaudio
